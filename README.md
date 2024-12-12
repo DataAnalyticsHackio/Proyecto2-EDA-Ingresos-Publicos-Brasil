@@ -161,7 +161,7 @@ La entrega del proyecto se realizará a través de una **issue en GitHub**, trab
 
 - **Crear un nuevo repositorio en tu cuenta de GitHub:**
 
-   - Crea un nuevo repositorio llamado `Proyecto1-Juegos-Python`. Este nombre es obligatorio, no podremos llamarlo de otra forma. 
+   - Crea un nuevo repositorio llamado `Proyecto2-Insights Brasil`. Este nombre es obligatorio, no podremos llamarlo de otra forma. 
 
    - Configuralo como público. 
 
@@ -202,7 +202,7 @@ La entrega del proyecto se realizará a través de una **issue en GitHub**, trab
 
 **Fecha y hora límite:**
 
-🗓️ **Lunes a las 9:00 AM.**
+🗓️ **Martes a las 18:00.**
 
 
 **Nota importante:**
@@ -212,7 +212,7 @@ La entrega del proyecto se realizará a través de una **issue en GitHub**, trab
 
 # 🎤 Presentación de Proyectos 🎤
 
-El lunes a primera hora tendremos las **presentaciones de los proyectos**. La dinámica será la siguiente:
+El martes a primera hora tendremos las **presentaciones de los proyectos**. La dinámica será la siguiente:
 
 - De forma **aleatoria**, seleccionaremos entre **3 y 5 alumnos** para presentar su proyecto.
 
